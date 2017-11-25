@@ -1,6 +1,5 @@
 package com.yakir.jndroid.view.fragment.home;
 
-import android.graphics.drawable.AnimationDrawable;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.util.Log;
@@ -17,7 +16,7 @@ import com.yakir.jndroid.adapter.CourseAdapter;
 import com.yakir.jndroid.model.recommand.BaseRecommandModel;
 import com.yakir.jndroid.network.RequestCenter;
 import com.yakir.jndroid.view.fragment.BaseFragment;
-import com.yalir.okhttp.listener.DisposeDataListener;
+import com.yakir.okhttp.listener.DisposeDataListener;
 
 /**
  * @author yakir

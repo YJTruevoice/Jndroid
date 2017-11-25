@@ -14,7 +14,7 @@ import android.widget.TextView;
 import com.yakir.jndroid.R;
 import com.yakir.jndroid.model.recommand.RecommandBodyValue;
 import com.yakir.jndroid.util.Utils;
-import com.yalir.imageloader.ImageLoaderManager;
+import com.yakir.imageloader.ImageLoaderManager;
 
 import java.util.ArrayList;
 

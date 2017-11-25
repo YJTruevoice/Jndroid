@@ -1,11 +1,11 @@
 package com.yakir.jndroid.network;
 
 import com.yakir.jndroid.model.recommand.BaseRecommandModel;
-import com.yalir.okhttp.CommonOkHttpClient;
-import com.yalir.okhttp.listener.DisposeDataHandle;
-import com.yalir.okhttp.listener.DisposeDataListener;
-import com.yalir.okhttp.request.CommonRequest;
-import com.yalir.okhttp.request.RequestParams;
+import com.yakir.okhttp.CommonOkHttpClient;
+import com.yakir.okhttp.listener.DisposeDataHandle;
+import com.yakir.okhttp.listener.DisposeDataListener;
+import com.yakir.okhttp.request.CommonRequest;
+import com.yakir.okhttp.request.RequestParams;
 
 /**
  * @author yakir
